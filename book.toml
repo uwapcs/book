@@ -3,4 +3,4 @@ authors = ["Tom Almeida"]
 language = "en"
 multilingual = false
 src = "src"
-title = "book"
+title = "Doing Computer Science at UWA"
