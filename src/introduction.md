@@ -1,4 +1,5 @@
-# CITS book
+Introduction
+============
 
 This is a WIP book that is a collaborative effort between PCS (the Programming Competition Society), DSC (Data Science Club) and UCC (University Computer Club) about doing Computer Science based majors at the University of Western Australia.
 
